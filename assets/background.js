@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Friendstatstic", "icon.png", "panel.html")

@@ -1,0 +1,17 @@
+{
+  "name": "Friendstatstic",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "homepage_url": "https://github.com/recamshak/chrome-django-panel",
+  "description": "Friendstatstic - Fantastic Friends Stats is Forge of Empires friends stats gathering extension",
+
+  "icons": {
+    "128": "extension-icon.png"
+  },
+  "devtools_page": "tab.html",
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
